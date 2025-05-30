@@ -1,0 +1,7 @@
+.editorconfig
+.vscode
+.vs
+bin
+build
+*.exe
+*.pdb

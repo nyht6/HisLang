@@ -1,14 +1,15 @@
-![HerLang](/assets/logo.png)
-# HarLang - A code language for her.
 
-Programming is not a male privilege, girls can also program well.
+# HisLang - A code language not for her.
+# 注：本项目制作目的只是为了嘲讽HerLang这么个玩意
+
+Programming is not a female privilege, boys can also program well.
 
 ## Demo
 
 ```herlang
 function you_can_do_this:
-    say "Hello! Her World!"
-    say "编程很美，也属于你！"
+    say "Hello! Everyone's World!"
+    say "编程很美，但不属于女权xxn们！"
 end
 
 start:
@@ -19,8 +20,8 @@ end
 it outputs:
 
 ```
-Hello! Her World!
-编程很美，也属于你！
+Hello! Everyone's World!
+编程很美，但不属于女权xxn们！
 ```
 
 ## How to use
